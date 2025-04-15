@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type" : "model",
+        "model" : "game:potion/instant_potion",
+        "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+    }
+}

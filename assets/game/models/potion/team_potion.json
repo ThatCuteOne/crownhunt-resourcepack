@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer1": "game:item/potion/team_potion",
+		"layer0": "game:item/potion/team_potion_overlay"
+	}
+}
