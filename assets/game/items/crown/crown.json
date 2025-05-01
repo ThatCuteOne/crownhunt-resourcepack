@@ -1,6 +1,6 @@
 {
     "model": {
         "type" : "model",
-        "model" : "game:crown/star_crown"
+        "model" : "game:crown/crown"
     }
 }
